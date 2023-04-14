@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zoo Animals</string>
+    <string name="animalName">Animal Name</string>
+    <string name="animalContinent">Continent</string>
+    <string name="animalsName">Name</string>
+    <string name="animalsContinent">Continent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="animalname">animalName</string>
+    <string name="animalcontinent">animalContinent</string>
+</resources>
